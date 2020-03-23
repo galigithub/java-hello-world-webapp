@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>java-hello-world</finalName>
+    <finalName>hello-world</finalName>
   </build>
 </project>
